@@ -1,0 +1,38 @@
+{
+  "name": "indian-mact-drafting",
+  "version": "0.1.0-alpha",
+  "description": "Open-source Claude-compatible plugin for drafting Indian motor-accident-claim and motor-vehicle-litigation pleadings. Case-config-aware and state-config-aware design — the plugin's structural skeletons are uniform across pleading types, and the parties' chosen forum (Motor Accident Claims Tribunal of the territorial district, High Court for Section 173 appeal, Magistrate Court for the rash / negligent-driving criminal trial under BNSS 2023, Collector of the District for Section 174 recovery), accident-trigger date, claimant composition (deceased's legal representatives / injured claimant / property-damage claimant), vehicle particulars, FIR particulars, insurer particulars, multiplier-table inputs (deceased age + monthly income + dependants per Sarla Verma + Pranay Sethi line), and State Motor Vehicles Rules variations are supplied by the user via case-config and state-config files. Battle-tested workflows for Section 166 fault-based claims, Section 164 lump-sum claims (post-2019 amendment, replacing the old Section 163A), Section 161 solatium / hit-and-run claims, Section 147 / 149 third-party-insurance liability pleadings, interim compensation applications, Section 173 appeals to the High Court, claim-award execution, Employees' Compensation Act 1923 claims, rash / negligent-driving defence under BNSS 2023, and Section 174 recovery as arrears of land revenue. Includes the 6-agent drafting pipeline (Reader -> Format -> Drafter -> Verifier -> Refiner -> Overseer), shared MACT drafting base with the Motor Vehicles Act 1988 (as amended 2019) + Central Motor Vehicles Rules 1989 + State Motor Vehicles Rules + Employees' Compensation Act 1923 + Bharatiya Nyaya Sanhita 2023 + Bharatiya Nagarik Suraksha Sanhita 2023 + Bharatiya Sakshya Adhiniyam 2023 + Sarla Verma multiplier doctrine + Pranay Sethi constitution-bench future-prospects reform encoded.",
+  "author": {
+    "name": "Wolfgang Rush",
+    "url": "https://github.com/Wolfgangrush/indian-mact-drafting"
+  },
+  "license": "MIT",
+  "keywords": [
+    "law",
+    "legal",
+    "drafting",
+    "india",
+    "motor-vehicle",
+    "motor-accident",
+    "mact",
+    "compensation",
+    "sarla-verma",
+    "pranay-sethi",
+    "third-party-insurance",
+    "section-166",
+    "section-164",
+    "section-173",
+    "employees-compensation",
+    "workmen-compensation",
+    "rash-driving",
+    "hit-and-run",
+    "bnss",
+    "lawtech",
+    "claude-compatible"
+  ],
+  "homepage": "https://github.com/Wolfgangrush/indian-mact-drafting",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wolfgangrush/indian-mact-drafting"
+  }
+}
