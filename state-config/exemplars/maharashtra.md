@@ -1,6 +1,6 @@
 # state-config — Maharashtra (indian-mact-drafting)
 
-**Validation depth:** Deep · battle-tested · author's practice State (Bombay High Court Nagpur Bench).
+**Validation depth:** Researched · awaiting Registry-acceptance validation.
 
 ```yaml
 state: "Maharashtra"

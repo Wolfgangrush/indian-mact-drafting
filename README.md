@@ -276,8 +276,7 @@ Tabular Particulars in MACT pleadings vary significantly by State — each State
 
 State exemplars in the plugin (v0.1.0-alpha):
 
-- **Deep · battle-tested:** `maharashtra.md` (Bombay HC Nagpur Bench is the author's practice)
-- **Researched · not validated:** `karnataka.md`, `tamil-nadu.md`, `kerala.md`, `delhi.md`, `uttar-pradesh.md`, `west-bengal.md`, `gujarat.md`
+- **Researched · awaiting Registry-acceptance validation:** `maharashtra.md`, `karnataka.md`, `tamil-nadu.md`, `kerala.md`, `delhi.md`, `uttar-pradesh.md`, `west-bengal.md`, `gujarat.md`
 - **Stub markers — community contribution welcomed:** the remaining 20 States and Union Territories. Open a GitHub Issue with your bench's tabular-particulars schedule + state-specific MV Rules variations, and the exemplar will be added.
 
 ---
@@ -349,7 +348,7 @@ A plugin that codifies the procedural skeletons + the statutory-currency rules +
 
 Foreign legal-AI tools cannot fill this gap. The procedural conventions are jurisdiction-specific; the statutory framework is Motor Vehicles Act 1988 + State MV Rules + BNS / BNSS / BSA 2023 + EC Act 1923 which no foreign training data has indexed at depth; the formatting requirements at the Registry counter of an MACT are matters of bench practice that no foreign tool has encountered.
 
-This plugin opens that door. It is most-deeply-validated for the practice idiom of the author at the Bombay High Court Nagpur Bench, and shall be deepened with respect to other benches as community contributors raise GitHub issues and Pull Requests with their bench's specific Practice Directions and State MV Rules variations.
+This plugin opens that door.
 
 ---
 
